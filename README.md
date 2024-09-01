@@ -5,8 +5,8 @@
 постепеенно буду дополнять список, также буду рад помощи)
 Если есть, что добавить - форкайте репу
 
-[Дискретная математика - ИТМО](./ITMO/DiscreteMath.md)
-
+[Дискретная математика - ИТМО](./ITMO/DiscreteMath.md)<br>
+[Алгоритмы и Структуры данных - ИТМО](https://github.com/radmickey/IS-2026-algo) - Запушил только маленькую часть, но всё же<br>
 ---
 
 Hi there!
@@ -14,4 +14,4 @@ This repository is just a collection of all the useful (or not so useful) files 
 I'll be gradually adding more to the list and would appreciate any help as well!
 If you have something to contribute, feel free to fork the repo.
 
-[Discrete Math - ITMO](./ITMO/DiscreteMath.md)
+[Discrete Math - ITMO](./ITMO/DiscreteMath.md)<br>
