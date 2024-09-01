@@ -1,5 +1,12 @@
 # Дискретная математика (Чухарев К.И.)
 
+### Шпаргалки
+[Теория Множеств](DM-Fall2022-SetTheory-Cheatsheet.pdf)<br>
+[Бинарные отношения](DM-Fall2022-BinaryRelations-Cheatsheet.pdf)<br>
+[Булевая Алгебра](DM-Fall2022-BooleanAlgebra-Cheatsheet.pdf)<br>
+[Формальная логика](DM-Fall2022-FormalLogic-Cheatsheet.pdf)<br>
+[Теория Графов](DM-Spring2023-GraphTheory-Cheatsheet.pdf)<br>
+
 ### 1 семестр
 | Лекции  | Запись лекции |
 | --------------- | ----------------------------------------------------------- |
